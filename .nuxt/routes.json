@@ -1,0 +1,86 @@
+[
+  {
+    "name": "confirm-payment",
+    "path": "/confirm-payment",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/confirm-payment/index.vue",
+    "chunkName": "pages/confirm-payment/index",
+    "_name": "_f966311a"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/contact/index.vue",
+    "chunkName": "pages/contact/index",
+    "_name": "_0c3f19da"
+  },
+  {
+    "name": "edit-profile",
+    "path": "/edit-profile",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/edit-profile/index.vue",
+    "chunkName": "pages/edit-profile/index",
+    "_name": "_71e54542"
+  },
+  {
+    "name": "history",
+    "path": "/history",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/history/index.vue",
+    "chunkName": "pages/history/index",
+    "_name": "_7e78d94e"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/home/index.vue",
+    "chunkName": "pages/home/index",
+    "_name": "_4347120a"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_000e39a3"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/profile/index.vue",
+    "chunkName": "pages/profile/index",
+    "_name": "_6d802fba"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/register/index.vue",
+    "chunkName": "pages/register/index",
+    "_name": "_e35af982"
+  },
+  {
+    "name": "renew-password",
+    "path": "/renew-password",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/renew-password/index.vue",
+    "chunkName": "pages/renew-password/index",
+    "_name": "_7806bbb7"
+  },
+  {
+    "name": "confirm-payment-result-id",
+    "path": "/confirm-payment/result/:id",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/confirm-payment/result/_id.vue",
+    "chunkName": "pages/confirm-payment/result/_id",
+    "_name": "_8f7d7012"
+  },
+  {
+    "name": "project-id",
+    "path": "/project/:id?",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/project/_id.vue",
+    "chunkName": "pages/project/_id",
+    "_name": "_90fe2e8a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/mac/Documents/Developer/NuxtJS/fwd-donation-fe/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1626e809"
+  }
+]

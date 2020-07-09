@@ -1,0 +1,33 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/confirm-payment/index.js": "pages/confirm-payment/index.js",
+    "pages/confirm-payment/result/[_]id.js": "pages/confirm-payment/result/[_]id.js",
+    "pages/contact/index.js": "pages/contact/index.js",
+    "pages/edit-profile/index.js": "pages/edit-profile/index.js",
+    "pages/history/index.js": "pages/history/index.js",
+    "pages/home/index.js": "pages/home/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/login/index.js": "pages/login/index.js",
+    "pages/profile/index.js": "pages/profile/index.js",
+    "pages/project/[_]id.js": "pages/project/[_]id.js",
+    "pages/register/index.js": "pages/register/index.js",
+    "pages/renew-password/index.js": "pages/renew-password/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/confirm-payment/index.js": "pages/confirm-payment/index.js.map",
+    "pages/confirm-payment/result/[_]id.js": "pages/confirm-payment/result/[_]id.js.map",
+    "pages/contact/index.js": "pages/contact/index.js.map",
+    "pages/edit-profile/index.js": "pages/edit-profile/index.js.map",
+    "pages/history/index.js": "pages/history/index.js.map",
+    "pages/home/index.js": "pages/home/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/login/index.js": "pages/login/index.js.map",
+    "pages/profile/index.js": "pages/profile/index.js.map",
+    "pages/project/[_]id.js": "pages/project/[_]id.js.map",
+    "pages/register/index.js": "pages/register/index.js.map",
+    "pages/renew-password/index.js": "pages/renew-password/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

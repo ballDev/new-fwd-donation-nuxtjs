@@ -1,0 +1,86 @@
+{
+  "ConfirmPayment": {
+    "description": "Auto imported from components/ConfirmPayment.vue"
+  },
+  "LazyConfirmPayment": {
+    "description": "Auto imported from components/ConfirmPayment.vue"
+  },
+  "ConfirmPaymentResult": {
+    "description": "Auto imported from components/ConfirmPaymentResult.vue"
+  },
+  "LazyConfirmPaymentResult": {
+    "description": "Auto imported from components/ConfirmPaymentResult.vue"
+  },
+  "ContactAddress": {
+    "description": "Auto imported from components/ContactAddress.vue"
+  },
+  "LazyContactAddress": {
+    "description": "Auto imported from components/ContactAddress.vue"
+  },
+  "Detail": {
+    "description": "Auto imported from components/Detail.vue"
+  },
+  "LazyDetail": {
+    "description": "Auto imported from components/Detail.vue"
+  },
+  "EditPassword": {
+    "description": "Auto imported from components/EditPassword.vue"
+  },
+  "LazyEditPassword": {
+    "description": "Auto imported from components/EditPassword.vue"
+  },
+  "EditProfile": {
+    "description": "Auto imported from components/EditProfile.vue"
+  },
+  "LazyEditProfile": {
+    "description": "Auto imported from components/EditProfile.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "History": {
+    "description": "Auto imported from components/History.vue"
+  },
+  "LazyHistory": {
+    "description": "Auto imported from components/History.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "LazyLogin": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "MenuBar": {
+    "description": "Auto imported from components/MenuBar.vue"
+  },
+  "LazyMenuBar": {
+    "description": "Auto imported from components/MenuBar.vue"
+  },
+  "Profile": {
+    "description": "Auto imported from components/Profile.vue"
+  },
+  "LazyProfile": {
+    "description": "Auto imported from components/Profile.vue"
+  },
+  "Project": {
+    "description": "Auto imported from components/Project.vue"
+  },
+  "LazyProject": {
+    "description": "Auto imported from components/Project.vue"
+  },
+  "Register": {
+    "description": "Auto imported from components/Register.vue"
+  },
+  "LazyRegister": {
+    "description": "Auto imported from components/Register.vue"
+  }
+}

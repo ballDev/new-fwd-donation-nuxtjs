@@ -1,0 +1,48 @@
+{
+    "donation_fe": {
+        "conn_type": "http://",
+        "ip": "206.189.41.105",
+        "port": ":3010"
+    },
+    "donation_api": {
+        "conn_type": "https://",
+        "ip": "fwp-sqa-api.evolka.in",
+        "port": ""
+    },
+    "donation_api_sum": {
+        "conn_type": "https://",
+        "ip": "mfp-sum-iot.wadteam.dev",
+        "port": ""
+    },
+    "member_path": "mmf",
+    "location_path": "sum",
+    "is_has_partner_id": false,
+    "routing": {
+        "donor": "dmf/v1/donator"
+    },
+    "title_project": "พรรคก้าวไกล",
+    "partnerId": "5e720b5119b43700108d47b1",
+    "party_project_id": "5e9f16157343820010ea1e6b",
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1ODI1Mzc3NDgsImV4cCI6MTYxNDA3Mzc0OCwiYXVkIjoiIiwic3ViIjoiIiwidXNlcm5hbWUiOiJwYW5ncG9uZCJ9.vQxeJ22kw62jBbA6Ne_KZlLmcL36s6wDXumW9yxD8Xw",
+    "api_key": "AIzaSyANbkJBQLDj5eRguQF8KhkAhOICwHcH9jQ",
+    "project": {
+        "contentInit": 3,
+        "contentPerPage": 9
+    },
+    "donator": {
+        "upload_file_idcard": true
+    },
+    "donation": {
+        "history_per_page": 25
+    },
+    "aws_s3": {
+        "accessKeyId": "DL7EOQXBNXRI2T7FGPHD",
+        "secretAccessKey": "at24/UhN+eMAY9ZCvEH3Xs0oa6Ro0sneWB9+GGYruXA",
+        "endpoint": "https://sgp1.digitaloceanspaces.com",
+        "region": "sgp1"
+    },
+    "pay_2c2p": {
+        "url": "https://demo2.2c2p.com/2C2PFrontEnd/SecurePayment/PaymentAuth.aspx",
+        "secret_key": "BDF068235990846CCE7471D6D2CFB8BBB876A74E9D00C9F0EA23AC9DD23F7F88"
+    }
+}

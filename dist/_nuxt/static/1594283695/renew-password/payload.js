@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/renew-password", {data:[{}],fetch:[],mutations:void 0});

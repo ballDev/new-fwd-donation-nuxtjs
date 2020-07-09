@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/confirm-payment", {data:[{}],fetch:[],mutations:void 0});
